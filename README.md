@@ -4,7 +4,7 @@ Hi 👋 My name is Nikita Kutovoy
 Java Developer
 --------------
 
-Hey there, I'm Nikita! At 21, I'm still that starry-eyed kid who got hooked on games back in 5th grade. Those pixelated worlds sparked a fire, and by the time I hit 9th grade, I was slinging C++ like a coding warrior in programming olympiads. Fast forward to today, I'm a full-fledged software engineer, building backends at "Innotech" as their Lead Java Developer. But when the workday ends, the pixels start calling again. My nights are for Unity, crafting my own game adventures, one line of code at a time. I'm still on my own gamedev journey, and I'd love to learn from and work with experienced folks. If you've got a project with space for a passionate coder, I'm eager to contribute and grow.
+Hey there, I'm Nikita! At 21, I'm still that starry-eyed kid who got hooked on games back in 5th grade. Those pixelated worlds sparked a fire, and by the time I hit 9th grade, I was slinging C++ like a coding warrior in programming olympiads. Fast forward to today, I'm a full-fledged software engineer, building backends at "Innotech" as their Middle Java Developer. But when the workday ends, the pixels start calling again. My nights are for Unity, crafting my own game adventures, one line of code at a time. I'm still on my own gamedev journey, and I'd love to learn from and work with experienced folks. If you've got a project with space for a passionate coder, I'm eager to contribute and grow.
 
 * 🌍  I'm based in Taganrog
 * ✉️  You can contact me at [elizabeth.nn.dev@gmail.com](mailto:elizabeth.nn.dev@gmail.com)
